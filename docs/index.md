@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "坞中客"
-  text: "第二行说明"
+  text: "第二行说明 "
   tagline: My great project tagline
   actions:
     - theme: brand
